@@ -25,8 +25,7 @@ During this project we were giving a web page that did not meet accessiblility s
 
 * **Erik Gustuson** 
 
-- [Link to Portfolio Site](https://github.com/ErikGustuson)
-- [Link to Github](https://github.com/)
+- [Link to Github](https://github.com/ErikGustuson)
 - [Link to LinkedIn](https://www.linkedin.com/in/erik-gustuson/)
 
 ## License
