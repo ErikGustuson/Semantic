@@ -14,12 +14,12 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+    /* rename to match corrections made in HTML with removal of span tag */
+.header h1 {    
     display: inline-block;
     font-size: 48px;
 }
-
+    /* corrected follow 3 selectors from div to nav to match HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,7 +46,7 @@ p {
     font-size: 16px;
 }
 
-.meeting {
+.meeting {  /* renamed to match correction from html to be more discriptive of image that is included */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -71,7 +71,11 @@ p {
     margin-left: 20px;
 }
 
-.all-benefits {
+/* for the class .all-benefits, .benefit and .articles I renamed 
+to remove duplicate code.  There was a block for each section 
+so I was able to cut out 2/3 of the following code  */
+
+.all-benefits { 
     margin-right: 20px;
     padding: 20px;
     clear: both;
