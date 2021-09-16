@@ -1,6 +1,6 @@
 # Semantic
 
-During this project we were giving a web page that did not meet accessiblility standards and were tasked with adding the semantic HTML elements to correct.  We were also asked to do some refactoring through both HTML and CSS files.
+During this project we were giving a web page that did not meet accessibility standards and were tasked with adding the semantic HTML elements to correct.  We were also asked to do some refactoring through both HTML and CSS files.
 
 ## Major Changes
 
@@ -23,7 +23,7 @@ During this project we were giving a web page that did not meet accessiblility s
 
 ## Authors
 
-* **Erik Gustuson** 
+* **Erik Gustuson**
 
 - [Link to Github](https://github.com/ErikGustuson)
 - [Link to LinkedIn](https://www.linkedin.com/in/erik-gustuson/)
@@ -55,4 +55,4 @@ SOFTWARE.
 ## Acknowledgments
 
 * Thanks Jerome, Every time i thought i was done you would give a hint and make me realize just how much more i can do and what i'm capable of.
-* Thanks Cheng and Manuel for your positive words of encouagment.
+* Thanks Cheng for all the wonderful gifs through out the day, Manuel for your positive words of encouragement and Daniel we haven't spoken yet but your support in chat is top-tier.
