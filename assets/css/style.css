@@ -15,9 +15,14 @@ body {
     color: #ffffff;
 }
     /* rename to match corrections made in HTML with removal of span tag */
-.header h1 {    
+.header h1 {
     display: inline-block;
     font-size: 48px;
+}
+    /* had removed seo selection when i thought header was all one color
+    which i later noticed in example that it is not and had to add back in */
+.header h1 .seo {
+  color: #d9dcd6
 }
     /* corrected follow 3 selectors from div to nav to match HTML */
 .header nav {
@@ -71,11 +76,11 @@ p {
     margin-left: 20px;
 }
 
-/* for the class .all-benefits, .benefit and .articles I renamed 
-to remove duplicate code.  There was a block for each section 
+/* for the class .all-benefits, .benefit and .articles I renamed
+to remove duplicate code.  There was a block for each section
 so I was able to cut out 2/3 of the following code  */
 
-.all-benefits { 
+.all-benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
