@@ -13,9 +13,14 @@ During this project we were giving a web page that did not meet accessibility st
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-## Screen Shot
+## Screen Shots
 
-![Screen shot](images/screen-shot.png)
+* Page Display
+![page display](images/screen-shot.png)
+
+* Before and After
+![before and after](images/before-after.png)
+
 
 ## Deployed Link
 
